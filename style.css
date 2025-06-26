@@ -1,0 +1,27 @@
+.imgStyle {
+  margin: 50px;
+  border-radius: 50%;
+}
+.font1 {
+  margin: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.font2 {
+  font-family: "Funnel Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+mark {
+  background-color: hsl(43, 37%, 55%);
+}
+div {
+  width: 500px;
+  height: auto;
+  margin: 15px;
+  padding-left: 20px;
+  padding-top: 1px;
+  background-color: rgb(247, 239, 203);
+  text-align: left;
+}
